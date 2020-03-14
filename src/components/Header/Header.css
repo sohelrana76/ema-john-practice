@@ -1,0 +1,33 @@
+.header img{
+    height: 80px;
+}
+.header{
+    text-align: center;
+}
+nav{
+    background-color: black;
+    line-height: 40px;
+}
+nav a{
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 5px;
+    color: white;
+}
+nav a:hover{
+    background-color: lightgray;
+    color: black;
+    font-weight: 700;
+}
+.search{
+    background-color: darkgray;
+   line-height: 70px;
+}
+.form-control{
+    width: 70%;
+    padding: 10px;
+}
+.shoppingcart{
+    margin-left: 20px;
+    
+}
